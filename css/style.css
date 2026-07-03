@@ -91,9 +91,9 @@ ul {
 /* ##################### */
 /* S Header */
 header {
-    background-color: transparent;
+    background-color: rgb(0 0 0 / 40%);
     color: white;
-    position: absolute;
+    position: fixed;
     z-index: 5;
     width: 100%;
 }
